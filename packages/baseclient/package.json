@@ -93,7 +93,7 @@
     "@types/redux-logger": "^3.0.7",
     "@types/validator": "^10.11.0",
     "@types/webpack": "^4.4.27",
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.0.2",
     "babel-jest": "^24.7.1",
     "babel-loader": "^8.0.5",
     "babel-plugin-import": "^1.11.2",
